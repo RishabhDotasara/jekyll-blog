@@ -1,6 +1,7 @@
 ---
 title: Welcome to Jekyll!
-date: 2024-10-17 11:13:31 Z
+date: 2024-10-17 11:13:00 Z
+permalink: "/welcome-to-jekyll"
 categories:
 - jekyll
 - update
